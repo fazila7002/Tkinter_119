@@ -8,14 +8,14 @@ Tugas Praktikum Pemrograman Multiplatform - Formatting GUI dengan Tkinter
 
 ## Deskripsi
 
-Aplikasi GUI **Prediksi Prodi Pilihan** dibuat dengan Tkinter, berisi:
+Saya membuat jendela **Aplikasi Prediksi Prodi Pilihan** pakai Tkinter. Isinya:
 
 - 1 label judul "Aplikasi Prediksi Prodi Pilihan"
-- 10 input nilai mata pelajaran (disusun dalam `LabelFrame`, 2 kolom x 5 baris dengan layout `grid`)
-- 1 button bertuliskan "Hasil Prediksi"
+- 10 input nilai mata pelajaran, saya susun dalam `LabelFrame` 2 kolom x 5 baris pakai `grid`
+- 1 button "Hasil Prediksi"
 - 1 label luaran hasil prediksi
 
-Fungsi `hasil_prediksi()` menuliskan prodi **Teknologi Informasi** apapun input yang diberikan.
+Tombol Hasil Prediksi memanggil `hasil_prediksi()`. Fungsi itu menulis **Teknologi Informasi** di label luaran, berapa pun nilai yang masuk.
 
 ## Cara Menjalankan
 
