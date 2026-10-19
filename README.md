@@ -2,9 +2,9 @@
 
 Tugas Praktikum Pemrograman Multiplatform - Formatting GUI dengan Tkinter
 
-Nama  : Fazilatun Nisa Muslimah
-NIM   : 20250140119
-Kelas : C
+- **Nama** : Fazilatun Nisa Muslimah
+- **NIM** : 20250140119
+- **Kelas** : C
 
 ## Deskripsi
 
